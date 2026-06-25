@@ -31,3 +31,14 @@ Analysis of a fictional boba tea shop chain with 5 Chicago-area locations using 
 - CTE pipelines for executive reporting
 - Data visualization in BigQuery and Power BI
 - AI-assisted query development using Gemini
+
+## Visualizations
+
+### Monthly Revenue Trend
+![Monthly Revenue Trend](revenue_by_month.png)
+
+### Monthly Order Count
+![Monthly Order Count](orders_by_month.png)
+
+### New Loyalty Program Sign-ups by Quarter
+![Loyalty Program Signups](signups_by_quarter.png)
