@@ -1,0 +1,6 @@
+location_id,name,address,city,state,open_date,is_active
+1,Bubble Bliss Downtown,123 Main St,Chicago,IL,2021-03-15,True
+2,Bubble Bliss Wicker Park,456 Milwaukee Ave,Chicago,IL,2021-07-01,True
+3,Bubble Bliss Evanston,789 Davis St,Evanston,IL,2022-01-20,True
+4,Bubble Bliss Naperville,321 Washington St,Naperville,IL,2022-06-10,True
+5,Bubble Bliss Oak Park,654 Lake St,Oak Park,IL,2023-02-28,False

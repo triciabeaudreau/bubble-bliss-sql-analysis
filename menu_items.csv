@@ -1,0 +1,21 @@
+item_id,item_name,category,price,calories,is_available
+1,Classic Milk Tea,drink,5.5,280,True
+2,Taro Milk Tea,drink,5.75,310,True
+3,Matcha Latte,drink,6.0,220,True
+4,Brown Sugar Boba Milk,drink,6.5,380,True
+5,Strawberry Fruit Tea,drink,5.75,180,True
+6,Mango Green Tea,drink,5.5,160,True
+7,Lychee Black Tea,drink,5.5,150,True
+8,Passion Fruit Tea,drink,5.75,140,True
+9,Thai Tea,drink,5.75,300,True
+10,Oolong Milk Tea,drink,5.5,260,True
+11,Wintermelon Tea,drink,5.25,200,True
+12,Honeydew Milk Tea,drink,5.75,290,True
+13,Seasonal Special,drink,7.0,320,False
+14,Tapioca Pearls (Boba),topping,0.75,110,True
+15,Popping Boba,topping,0.75,60,True
+16,Grass Jelly,topping,0.5,30,True
+17,Pudding,topping,0.75,80,True
+18,Aloe Vera,topping,0.5,15,True
+19,Red Bean,topping,0.75,90,True
+20,Crystal Boba,topping,0.75,20,True
